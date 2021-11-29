@@ -9,14 +9,14 @@ A cross platform french input method. (Actually just a plugin) 跨平台法语�
 
 数字 `3` 代表长音符 `ˆ`
 
-数字 `4` 代表开音符 `
+数字 `4` 代表开音符 `\``
 
 数字 `5` 代表软音符 `¸`
 
 数字 `6` 仅在 `o` 后使用，代表字母 `œ`
 
 
-
+<br>
 输入组合映射如下：
 
 e + 1 --> ë
@@ -32,3 +32,9 @@ e + 4 --> è
 c + 5 --> ç
 
 o + 6 --> œ
+
+
+<br>
+本软件兼容 Windows, Linux, MacOS。
+
+但因正忙于考研，故 Windows 版以及 MacOS 版过两日再上传。
